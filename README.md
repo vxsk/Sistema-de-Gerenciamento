@@ -22,19 +22,19 @@ Linguagem de programação C
 
 # Imagens das Telas
 
-![Tela de Boas Vindas](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/6e87e719-ca20-4640-b524-6f4ffe55a495)
+[Tela de Boas Vindas](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/6e87e719-ca20-4640-b524-6f4ffe55a495)
 
-![Tela de Login](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/6c8f4c6f-789b-4c2e-9cc0-57823a3d0b37)
+[Tela de Login](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/6c8f4c6f-789b-4c2e-9cc0-57823a3d0b37)
 
-![Tela de Cadastro](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/f4ed6f58-e546-4653-88bc-5db965812f89)
+[Tela de Cadastro](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/f4ed6f58-e546-4653-88bc-5db965812f89)
 
-![Menu Principal](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/2deb9de7-8279-4f83-b782-2552e9b4bc8c)
+[Menu Principal](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/2deb9de7-8279-4f83-b782-2552e9b4bc8c)
 
-![Departamento RH](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/db8b0178-d4a4-45a6-985a-71a0cf42ae8b)
+[Departamento RH](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/db8b0178-d4a4-45a6-985a-71a0cf42ae8b)
 
-![Departamento Financeiro](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/9de16bf9-1cfd-4053-a509-77167c141631)
+[Departamento Financeiro](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/9de16bf9-1cfd-4053-a509-77167c141631)
 
-![Departamento de Desenvolvimento](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/14626057-cd93-44ab-9594-089aa0777409)
+[Departamento de Desenvolvimento](https://github.com/vxsk/Sistema-de-Gerenciamento/assets/71227147/14626057-cd93-44ab-9594-089aa0777409)
 
 # Contribuição
 Este projeto foi desenvolvido como parte de um projeto acadêmico e pode não ser adequado para uso em produção. 
